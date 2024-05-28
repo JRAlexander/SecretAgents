@@ -1,0 +1,27 @@
+name: SecretAgents3
+dependencies:
+    - python==3.10
+    - pip
+    - pip:
+        - chromadb
+        - langchain
+        - langchain-openai
+        - langchain-pinecone
+        - numpy
+        - pandas
+        - jsonify
+        - langchainhub
+        - onnxruntime
+        - openai
+        - pypdf 
+        - python-dotenv
+        - tiktoken 
+        - tokenizers
+        - llama-index
+        - pinecone-client 
+        - jupyterlab
+        - duckduckgo-search
+        - grandalf
+        - llama-index-vector-stores-pinecone
+
+ 
